@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Sandeshhhh712/Sandeshhhh712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 About Me: 
+👋 Hi, I’m Sandesh Dhakal 
+💻 Backend-focused Developer (Python | FastAPI | Django)
+ I build APIs, real-time systems, and fullstack apps. 
+I love solving problems and puzzles. 
+ Currently focused on async systems, backend architecture, and scaling. 
+🌐 Socials: 
+Instagram email 
+💻 Tech Stack: 
+JavaScript HTML5 Lua Python CSS3 C Vercel Render Chart.js Django DjangoREST FastAPI Flask Jinja Nginx Gunicorn MySQL SQLite
+Postgres Redis Matplotlib NumPy Pandas TensorFlow PyTorch scikit-learn GitLab GitHub Git Selenium Unity 
+📊 GitHub Stats: 
+￼
+￼
+￼ 
+ 
