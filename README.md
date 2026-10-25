@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sandesh Dhakal  <br>💻 Backend-focused Developer (Python | FastAPI | Django)<br><br>I build APIs, real-time systems, and fullstack apps.  <br>I love solving problems and puzzles. <br><br>Currently focused on async systems, backend architecture, and scaling.  
+👋 Hi, I'm Sandesh Dhakal  <br>💻 Backend-focused Developer (Python | FastAPI | Django)<br><br>I build APIs, real-time systems, and fullstack apps.  <br>I love solving problems and puzzles. <br><br>Currently focused on distribued systems, backend architecture, and scaling.  
 
 
 ## 🌐 Socials:
